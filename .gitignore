@@ -1,0 +1,11 @@
+build/
+.vscode/
+
+*.exe
+*.obj
+*.pdb
+
+CMakeCache.txt
+CMakeFiles/
+third_party/
+
