@@ -1,11 +1,30 @@
-build/
-.vscode/
-
-*.exe
+# Build output
+/build/
 *.obj
 *.pdb
+*.ilk
+*.exe
+*.dll
 
+# CMake
 CMakeCache.txt
 CMakeFiles/
-third_party/
+cmake_install.cmake
+*.cmake
+!CMakeLists.txt
 
+# Visual Studio
+.vs/
+*.vcxproj.user
+*.sln.docstates
+
+# Installer output
+/installer/output/
+
+# OS junk
+Thumbs.db
+.DS_Store
+
+# VS Code (optional -- keep if you want settings shared, remove entries you want tracked)
+.vscode/*
+!.vscode/tasks.json
