@@ -5,7 +5,7 @@ decoding, full subtitle support (text and bitmap), multi-audio track switching,
 playlists, and a custom Qt-based UI. Built as a from-scratch systems programming
 project, comparable in engineering scope to VLC/mpv rather than a tutorial toy.
 
-
+![SUM PLAYER screenshot](docs/screenshot.png)
 
 ## Features
 
@@ -88,19 +88,3 @@ for a full list of third-party components and their licenses.
 - [FFmpeg](https://ffmpeg.org) for media handling
 - [libass](https://github.com/libass/libass) for subtitle rendering
 - [Lucide](https://lucide.dev) for icons
-
-SUM PLAYER - A native media player built with Qt, FFmpeg, and libass
-Copyright (C) 2026 Sumanth
-
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
-
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
-GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License
-along with this program. If not, see <https://www.gnu.org/licenses/>.
