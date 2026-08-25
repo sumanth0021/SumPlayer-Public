@@ -5,7 +5,7 @@ decoding, full subtitle support (text and bitmap), multi-audio track switching,
 playlists, and a custom Qt-based UI. Built as a from-scratch systems programming
 project, comparable in engineering scope to VLC/mpv rather than a tutorial toy.
 
-![SUM PLAYER screenshot](Docs\Screenshot.png)
+![SUM PLAYER screenshot](docs/screenshot.png)
 
 ## Features
 
