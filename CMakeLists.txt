@@ -5,12 +5,12 @@ set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 set(CMAKE_CXX_EXTENSIONS OFF)
 
-set(CMAKE_PREFIX_PATH "D:/Qt/6.11.1/msvc2022_64")
+set(CMAKE_PREFIX_PATH "loaction of /Qt/6.11.1/msvc2022_64")
 find_package(Qt6 REQUIRED COMPONENTS Widgets Multimedia)
 set(CMAKE_AUTOMOC ON)
 
 
-set(FFMPEG_DIR "D:/DOIN/Dev/SumplayerComponents/ffmpeg-master-latest-win64-gpl-shared")
+set(FFMPEG_DIR " loaction of  /ffmpeg-master-latest-win64-gpl-shared")
 set(FFMPEG_INCLUDE_DIR "${FFMPEG_DIR}/include")
 set(FFMPEG_LIB_DIR "${FFMPEG_DIR}/lib")
 
